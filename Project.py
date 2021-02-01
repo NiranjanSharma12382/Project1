@@ -267,6 +267,7 @@ def rev_odd_word(paragraph:str):
 #rev_odd_word(str)
 
 #Remove all space from the input string
+
 def remove_whitespace(paragraph:str):
     new_str=''
     for i in paragraph:
